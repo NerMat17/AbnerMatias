@@ -59,9 +59,7 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 - 🏭 Integración con sistemas industriales (**OPC UA, KepServer**)  
 - 📊 Diseño y optimización de bases de datos (queries, índices, SPs)  
 - 🚀 Despliegue en entornos **Windows y Linux**  
-- 🖥️ Implementación de servicios backend en ejecución continua  
-
-📄 Basado en experiencia profesional en entorno industrial  [oai_citation:0‡CV_ADMB_2026.pdf](sediment://file_000000008a4871fdbd5936ecb8320092)
+- 🖥️ Implementación de servicios backend en ejecución continua
 
 ---
 
