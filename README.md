@@ -26,7 +26,7 @@ Construyendo soluciones escalables en la nube, combinando desarrollo backend, ba
 
 #### 🗄️ Bases de datos
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&perline=6" />
 </div>
 
 #### ⚙️ Herramientas
@@ -65,7 +65,7 @@ Convertirme en **Cloud Engineer**, dominando:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abner-delfino-mat%C3%ADas-bartolo-6494b530b" target="_blank">
+<a href="https://www.linkedin.com/in/abner-mat%C3%ADas-nermat17" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -77,7 +77,7 @@ Convertirme en **Cloud Engineer**, dominando:
 <img src="https://skillicons.dev/icons?i=youtube" height="40" />
 </a>
 
-<a href="https://instagram.com/admb_cooper17" target="_blank">
+<a href="https://instagram.com/nermat_17" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
