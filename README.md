@@ -23,30 +23,46 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 
 #### 💻 Backend & Lenguajes
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,cpp,python,js&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </div>
 
 #### 🌐 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
 </div>
 
-#### 🗄️ Bases de Datos
+#### 🗄️ Bases de datos
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </div>
 
 <p align="center">
-<strong>SQL Server (principal) • MariaDB</strong>
+<strong>MariaDB • Procedimientos almacenados • Optimización de consultas</strong>
 </p>
 
 #### ⚙️ Infraestructura & Herramientas
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,docker&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
 </div>
 
 <p align="center">
-<strong>Windows Server • IIS • Servicios Node.js • Raspberry Pi</strong>
+<strong>IIS • Windows Server • Servicios Node.js • Raspberry Pi • TeamViewer</strong>
 </p>
 
 ---
@@ -75,8 +91,8 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nermat17&show_icons=true&theme=dracula" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermat17&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nermat17&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermat17&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
@@ -84,15 +100,12 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 ### 🌐 Conecta conmigo
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/abner-matías-nermat17" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:arnold17032003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
+  <a href="https://www.linkedin.com/in/abner-matías-nermat17" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="mailto:arnold17032003@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+  </a>
 </div>
 
 ---
