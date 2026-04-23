@@ -1,43 +1,76 @@
 <h1 align="center">☁️ ¡Hola! Soy Abner Matías</h1>
 
-<h3 align="center">💻 Ingeniero en Sistemas | ☁️ Cloud & Backend Enthusiast</h3>
+<h3 align="center">💻 Ingeniero en Sistemas | ☁️ Cloud & Backend Engineer</h3>
 
 <p align="center">
-Construyendo soluciones escalables en la nube, combinando desarrollo backend, bases de datos y servicios cloud 🚀
+Desarrollador Full Stack con experiencia en sistemas productivos del sector industrial, 
+especializado en backend, bases de datos y despliegue de aplicaciones. 
+Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escalables 🚀
 </p>
 
 ---
 
-### ☁️ Enfoque actual
+### 🚀 Sobre mí
 
-- 🚀 Transicionando hacia **Cloud Computing**
-- 🧠 Aprendiendo sobre arquitectura, despliegue y escalabilidad
-- ⚙️ Interesado en backend robusto y sistemas distribuidos
-- 🔐 Explorando buenas prácticas de seguridad en aplicaciones
+- 💼 +2 años desarrollando sistemas en entorno productivo (sector automotriz)
+- ⚙️ Experiencia construyendo APIs, lógica de negocio y sistemas en tiempo real
+- 🧠 Fuerte enfoque en backend, datos y arquitectura
+- 🔄 Transicionando hacia **Cloud Engineer**
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Desarrollo
+#### 💻 Backend & Lenguajes
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,php,react,nodejs,express&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,cpp,python,js&perline=6" />
 </div>
 
-#### 🗄️ Bases de datos
+#### 🌐 Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery&perline=6" />
 </div>
 
-#### ⚙️ Herramientas
+#### 🗄️ Bases de Datos
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql&perline=6" />
 </div>
 
-#### ☁️ Cloud (en progreso)
+<p align="center">
+<strong>SQL Server (principal) • MariaDB</strong>
+</p>
+
+#### ⚙️ Infraestructura & Herramientas
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,visualstudio,docker&perline=6" />
 </div>
+
+<p align="center">
+<strong>Windows Server • IIS • Servicios Node.js • Raspberry Pi</strong>
+</p>
+
+---
+
+### ⚡ Experiencia Relevante
+
+- 🔧 Desarrollo y mantenimiento de sistemas web con **Node.js + SQL Server**
+- 🔌 Implementación de **APIs REST** y lógica de negocio
+- ⚡ Aplicaciones en tiempo real con **WebSockets (Socket.io)**  
+- 🏭 Integración con sistemas industriales (**OPC UA, KepServer**)  
+- 📊 Diseño y optimización de bases de datos (queries, índices, SPs)  
+- 🚀 Despliegue en entornos **Windows y Linux**  
+- 🖥️ Implementación de servicios backend en ejecución continua  
+
+📄 Basado en experiencia profesional en entorno industrial  [oai_citation:0‡CV_ADMB_2026.pdf](sediment://file_000000008a4871fdbd5936ecb8320092)
+
+---
+
+### ☁️ Enfoque Cloud (actual)
+
+- ☁️ Aprendiendo **AWS y servicios cloud**
+- 🐳 Contenedores con **Docker**
+- ⚙️ CI/CD y automatización
+- 📈 Arquitecturas escalables y resilientes
 
 ---
 
@@ -50,35 +83,16 @@ Construyendo soluciones escalables en la nube, combinando desarrollo backend, ba
 
 ---
 
-### 🚀 Objetivo
-
-Convertirme en **Cloud Engineer**, dominando:
-
-- ☁️ AWS / Cloud Platforms  
-- 🐳 Contenedores y despliegue (Docker)  
-- ⚙️ CI/CD  
-- 📈 Arquitecturas escalables  
-
----
-
 ### 🌐 Conecta conmigo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abner-mat%C3%ADas-nermat17" target="_blank">
+<a href="https://www.linkedin.com/in/abner-matías-nermat17" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="mailto:arnold17032003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://www.youtube.com/@coopermat1426" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="40" />
-</a>
-
-<a href="https://instagram.com/nermat_17" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
 </div>
