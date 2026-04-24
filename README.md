@@ -36,6 +36,7 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
 </div>
@@ -47,7 +48,7 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 </div>
 
 <p align="center">
-<strong>MariaDB • Procedimientos almacenados • Optimización de consultas</strong>
+<strong>MariaDB</strong>
 </p>
 
 #### ⚙️ Infraestructura & Herramientas
@@ -72,7 +73,7 @@ Actualmente enfocado en evolucionar hacia Cloud Computing y arquitecturas escala
 - 🔧 Desarrollo y mantenimiento de sistemas web con **Node.js + SQL Server**
 - 🔌 Implementación de **APIs REST** y lógica de negocio
 - ⚡ Aplicaciones en tiempo real con **WebSockets (Socket.io)**  
-- 🏭 Integración con sistemas industriales (**OPC UA, KepServer**)  
+- 🏭 Integración con sistemas industriales (**OPC UA, KepServer, Node-Red**)  
 - 📊 Diseño y optimización de bases de datos (queries, índices, SPs)  
 - 🚀 Despliegue en entornos **Windows y Linux**  
 - 🖥️ Implementación de servicios backend en ejecución continua
