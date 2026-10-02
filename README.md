@@ -8,7 +8,11 @@ Construyo sistemas web que corren en producción todos los días dentro de la in
 APIs, bases de datos, monitoreo en tiempo real e integración con equipos de planta.
 Hoy estoy llevando ese trabajo hacia la nube, con AWS, contenedores y CI/CD.
 
-[LinkedIn](https://www.linkedin.com/in/abner-mat%C3%ADas-nermat17) · [Email](mailto:arnold17032003@gmail.com) · Querétaro, México
+<a href="https://www.linkedin.com/in/abner-mat%C3%ADas-nermat17"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:arnold17032003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/></a>
+
+Querétaro, México
 
 </div>
 
@@ -39,21 +43,32 @@ Hoy estoy llevando ese trabajo hacia la nube, con AWS, contenedores y CI/CD.
 
 ## Tecnologías
 
-| | |
-|---|---|
-| **Lenguajes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" title="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" title="C++"/> |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" title="Express"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="32" title=".NET / ASP.NET MVC"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="32" title="Socket.io"/> |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" title="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="32" title="jQuery"/> |
-| **Bases de datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32" title="SQL Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="32" title="MariaDB"/> |
-| **Infraestructura** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32" title="Windows Server"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" title="Raspberry Pi"/> |
-| **Herramientas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="32" title="Visual Studio"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" title="Postman"/> |
+<p align="center"><b>Lenguajes y backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,py,cpp" alt="JavaScript, Node.js, Express, C#, .NET, Python, C++"/>
+</p>
 
-**Integración industrial:** OPC UA · KepServer · Node-RED · IIS · TeamViewer · Zebra Designer
+<p align="center"><b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,jquery,pug" alt="React, HTML, CSS, Tailwind, Bootstrap, jQuery, Pug"/>
+</p>
+
+<p align="center"><b>Infraestructura y herramientas</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,raspberrypi,git,github,vscode,visualstudio,postman" alt="Linux, Windows, Docker, Raspberry Pi, Git, GitHub, VS Code, Visual Studio, Postman"/>
+</p>
+
+<p align="center"><b>Aprendiendo ahora</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,githubactions" alt="AWS, GitHub Actions"/>
+</p>
+
+<p align="center">
+  <b>Bases de datos:</b> SQL Server · MySQL · MariaDB
+  <br/>
+  <b>Integración industrial:</b> OPC UA · KepServer · Node-RED · Socket.io · IIS
+</p>
 
 ## Formación y certificaciones
 
 - **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico Superior de Tamazunchale (2020 – 2024)
-- **Especialización en React** — Meta, Coursera · *Completada*
+- **Meta React Specialization** — Meta, Coursera (sep 2026) · React Basics y Advanced React · [Ver credencial](https://coursera.org/verify/specialization/GMAE7EES6O7S)
 - **AWS Fundamentals** — Amazon Web Services, Coursera · *En curso*
 
 ## Enfoque actual
@@ -66,8 +81,8 @@ Hoy estoy llevando ese trabajo hacia la nube, con AWS, contenedores y CI/CD.
 ## Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nermat17&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nermat17&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NerMat17&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerMat17&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 <br/>
