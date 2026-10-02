@@ -70,15 +70,13 @@ Querétaro, México
   <img src="assets/icons/mariadb.svg" width="48" alt="MariaDB" title="MariaDB"/>
 </p>
 
-<p align="center"><b>Infraestructura</b><br/><br/>
+<p align="center"><b>Infraestructura y herramientas</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
   <img src="assets/icons/iis.svg" width="48" alt="IIS" title="IIS"/>
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi" title="Raspberry Pi"/>
-</p>
-
-<p align="center"><b>Herramientas</b><br/><br/>
+  &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code"/>
