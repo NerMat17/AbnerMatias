@@ -1,0 +1,31 @@
+name: generar grafica pacman
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # una vez al dia
+  workflow_dispatch: # permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: generar SVG de la grafica
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      - name: subir los SVG a la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
