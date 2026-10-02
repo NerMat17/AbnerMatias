@@ -44,25 +44,52 @@ Querétaro, México
 ## Tecnologías
 
 <p align="center"><b>Lenguajes y backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,py,cpp" alt="JavaScript, Node.js, Express, C#, .NET, Python, C++"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express"/>
+  <img src="assets/icons/socketio.svg" width="48" alt="Socket.io" title="Socket.io"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" title=".NET"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++"/>
 </p>
 
 <p align="center"><b>Frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,jquery,pug" alt="React, HTML, CSS, Tailwind, Bootstrap, jQuery, Pug"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=jquery" width="48" alt="jQuery" title="jQuery"/>
+  <img src="https://skillicons.dev/icons?i=pug" width="48" alt="Pug" title="Pug"/>
+</p>
+
+<p align="center"><b>Bases de datos</b><br/><br/>
+  <img src="assets/icons/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL"/>
+  <img src="assets/icons/mariadb.svg" width="48" alt="MariaDB" title="MariaDB"/>
 </p>
 
 <p align="center"><b>Infraestructura y herramientas</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,raspberrypi,git,github,vscode,visualstudio,postman" alt="Linux, Windows, Docker, Raspberry Pi, Git, GitHub, VS Code, Visual Studio, Postman"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi" title="Raspberry Pi"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" title="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" title="Postman"/>
+</p>
+
+<p align="center"><b>Integración industrial</b><br/><br/>
+  <img src="assets/icons/nodered.svg" width="48" alt="Node-RED" title="Node-RED"/>
+  <br/><sub>OPC UA · KepServer · IIS</sub>
 </p>
 
 <p align="center"><b>Aprendiendo ahora</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,githubactions" alt="AWS, GitHub Actions"/>
-</p>
-
-<p align="center">
-  <b>Bases de datos:</b> SQL Server · MySQL · MariaDB
-  <br/>
-  <b>Integración industrial:</b> OPC UA · KepServer · Node-RED · Socket.io · IIS
+  <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
 
 ## Formación y certificaciones
