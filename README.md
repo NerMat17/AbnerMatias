@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abner Delfino Matías Bartolo - NerMat17
+# Abner Matías
 
 **Ingeniero en Sistemas Computacionales · Full Stack Developer · En camino a Cloud & DevOps**
 
@@ -45,13 +45,14 @@ Querétaro, México
 
 <p align="center"><b>Lenguajes y backend</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++"/>
+  &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express" title="Express"/>
   <img src="assets/icons/socketio.svg" width="48" alt="Socket.io" title="Socket.io"/>
-  <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" title=".NET"/>
-  <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET / ASP.NET MVC" title=".NET / ASP.NET MVC"/>
 </p>
 
 <p align="center"><b>Frontend</b><br/><br/>
@@ -61,7 +62,6 @@ Querétaro, México
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="Bootstrap" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=jquery" width="48" alt="jQuery" title="jQuery"/>
-  <img src="https://skillicons.dev/icons?i=pug" width="48" alt="Pug" title="Pug"/>
 </p>
 
 <p align="center"><b>Bases de datos</b><br/><br/>
@@ -73,6 +73,7 @@ Querétaro, México
 <p align="center"><b>Infraestructura y herramientas</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
+  <img src="assets/icons/iis.svg" width="48" alt="IIS" title="IIS"/>
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi" title="Raspberry Pi"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"/>
@@ -84,7 +85,8 @@ Querétaro, México
 
 <p align="center"><b>Integración industrial</b><br/><br/>
   <img src="assets/icons/nodered.svg" width="48" alt="Node-RED" title="Node-RED"/>
-  <br/><sub>OPC UA · KepServer · IIS</sub>
+  <img src="assets/icons/opcua.svg" width="48" alt="OPC UA" title="OPC UA"/>
+  <img src="assets/icons/kepserver.svg" width="48" alt="KepServer" title="KepServer"/>
 </p>
 
 <p align="center"><b>Aprendiendo ahora</b><br/><br/>
