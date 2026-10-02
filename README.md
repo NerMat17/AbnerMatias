@@ -74,7 +74,6 @@ Querétaro, México
   <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows Server" title="Windows Server"/>
   <img src="assets/icons/iis.svg" width="48" alt="IIS" title="IIS"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi" title="Raspberry Pi"/>
   &emsp;&emsp;
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git"/>
@@ -91,8 +90,9 @@ Querétaro, México
 </p>
 
 <p align="center"><b>Aprendiendo ahora</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker"/>
 </p>
 
 ## Formación y certificaciones
